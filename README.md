@@ -15,5 +15,5 @@ This project is a timeline of key events from the Bible, built using HTML, CSS, 
 
 ## How to Run the Project
 1. Clone this repository:
-   ```bash 
-git clone https://github.com/yourusername/4TheLord.git
+   ```bash
+   git clone https://github.com/yourusername/4TheLord.git
